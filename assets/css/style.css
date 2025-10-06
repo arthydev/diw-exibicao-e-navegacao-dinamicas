@@ -1,0 +1,14 @@
+.carousel-item .card {
+  height: 380px;       /* altura total igual */
+}
+
+.carousel-item img {
+  height: 200px;       /* metade da altura do card */
+  object-fit: cover;
+}
+
+.custom-btn:hover {
+  background-color: #28a745; /* verde padrão Bootstrap */
+  color: white;
+  border-color: #28a745;
+}
